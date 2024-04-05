@@ -12,7 +12,7 @@
     <li>City Current Time: User can see the current time of searched city.</li>
     <li>Wheater image: User can see the current weather image like sun,moon or clouds.</li>
 </ul>
-
+ 
 <h3>Requirements</h3>
 <ul>
 <li> Node Version 18</li>
